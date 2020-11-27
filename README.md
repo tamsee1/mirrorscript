@@ -1,4 +1,4 @@
-# mirrorscript
+# Mirrorscript
 Script to change kali repository mirror
 
 http://http.kali.org redirects you to the closest available mirror based on your physical location.
