@@ -24,6 +24,8 @@ print """
 print ""
 print "https://github.com/tamsee1/mirrorscript"
 print ""
+print "type help for info"
+print ""
 
 mirrors = {
 'http://mirror.karneval.cz/pub/linux/kali/' : 0,
