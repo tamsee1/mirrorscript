@@ -21,10 +21,9 @@ print """
  ##:::: ##:'####: ##:::. ##: ##:::. ##:. #######:: ##:::. ##:. ######::. ######:: ##:::. ##:'####: ##::::::::::: ##::::
 ..:::::..::....::..:::::..::..:::::..:::.......:::..:::::..:::......::::......:::..:::::..::....::..::::::::::::..:::::
 """
-print ""
 print "https://github.com/tamsee1/mirrorscript"
 print ""
-print "type help for info"
+print "type 'help' to display option and usage"
 print ""
 
 mirrors = {
@@ -189,14 +188,15 @@ def showMirror():
 def helpMenu():
     print ""
     print ("    COMMANDS" + '\t' + "DESCRIPTION").expandtabs(30)
+    print ""
     for key, value in choices.items():
         if key == 'update':
             print ("    " + key + ' [option]' '\t' + value).expandtabs(30)
         else:
             print ("    " + key + '\t' + value).expandtabs(30)
     print ""
-    print "    USAGE"
-    print "    update [mirror] - select one of the mirrors available"
+    print ""
+    print "    USAGE : update [mirror] - select one of the mirrors available"
     print ""
 
 def main():
