@@ -1,5 +1,5 @@
 # Mirrorscript
-Script to change kali repository mirror
+Script to change Kali repository mirror
 
 http://http.kali.org redirects you to the closest available mirror based on your physical location.
 Most of the time the servers may experience heavy load slowing down upgrades even with fast connection.
