@@ -7,7 +7,7 @@ This script lets you rank(based on the server's ping) and choose an alternative 
 
 The script works on a threaded model now, making ranking extremely quick.
 
-You can find the original mirror list here http.kali.org/README.mirrorlist
+You can find the original [mirror list](http.kali.org/README.mirrorlist) here.
 
 # Requirements
 Kali Linux
