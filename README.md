@@ -15,6 +15,5 @@ Kali Linux
 Python2.7
 
 # Usage
-Run script with sudo
 
-```sudo python2.7 mirrorscript.py```
+```python2.7 mirrorscript.py```
